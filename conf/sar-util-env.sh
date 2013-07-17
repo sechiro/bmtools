@@ -1,0 +1,6 @@
+SAR_BIN="/usr/bin/sar"
+RM_BIN="/bin/rm -f"
+LOG_LEVEL="debug"
+RESULT_LOG="/tmp/localhost.csv"
+STDOUT_LOG="/tmp/sar-util.out"
+STDERR_LOG="/tmp/sar-util.err"
